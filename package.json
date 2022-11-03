@@ -1,0 +1,19 @@
+{
+  "name": "tsql",
+  "version": "0.0.1",
+  "description": "simple typesafe json query language",
+  "types": "tsql.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmonte/tsql.git"
+  },
+  "author": "Thomas Monte",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tmonte/tsql/issues"
+  },
+  "homepage": "https://github.com/tmonte/tsql#readme"
+}
